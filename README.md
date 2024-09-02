@@ -29,4 +29,4 @@ Install node.js and npm on the system
 
 ## Enhancement
 * Publish report via gitpages or on slack channel
-* * from automation to manual case creation.
+* from automation to manual case creation.
