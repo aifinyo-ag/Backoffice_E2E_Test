@@ -20,8 +20,8 @@ Install node.js and npm on the system
 
 ## Running Tests
 
-* To run all  or  individual tests via GUI, run  `npm run cy:open`
-* To run test in different configuration from command prompt, type `npm run `
+* To run all  or  individual tests via GUI, run  `npx cypress open`
+* To run test in different configuration from command prompt, type `npx run`
 
 ## Creation of New Test
 - Create new project in cypress/e2e/[projectname].
